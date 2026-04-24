@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and journey as a developer.
 
-🌐 **Live Site:** https://portfolio-website-riyad.netlify.app/
+🌐 **Live Site:** https://teroxjt.netlify.app/
 
 ---
 
